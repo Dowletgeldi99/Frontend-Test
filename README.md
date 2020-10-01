@@ -1,5 +1,3 @@
-# Frontend-Test
-
 # Installation of development version
 
 # Clone project
